@@ -3,6 +3,7 @@
 - 🔭 Ainda não exercendo a função de Front-End -> IN PROGRESS
 - 🌱 Estudando HTML5, CSS3 e JS
 - 😄 Pronouns: Ele/Dele
+- 📫 Contato Email: herculesprogramador911@gmail.com
 
 ##
 
