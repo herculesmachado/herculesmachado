@@ -31,3 +31,5 @@
   </div>
   
   ![Snake animation](https://github.com/herculesmachado)
+  
+  </div>
