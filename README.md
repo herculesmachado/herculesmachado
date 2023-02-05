@@ -1,7 +1,7 @@
 ### Olá, Eu sou Hercules Machado 👋
 
 - 🔭 Developer Frontend Junior
-- 🌱 Estudando HTML5, CSS3, JS, ReactJS
+- 🌱 Experiência em HTML5, CSS3, JS, Vue.JS
 - 😄 Pronouns: Ele/Dele
 - 📫 Contato Email: herculesprogramador911@gmail.com
 
