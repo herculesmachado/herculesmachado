@@ -12,7 +12,7 @@ class AboutMe {
   val iAmFrom = "Sergipe, Brazil"
 
   val myFavoriteLanguagens = listOf("Koltin", "TypeScript", "JavaScript")
-  val myFavoriteFramework = listOf("Android Studio", "IntelliJ", "React", "Tailwindcss")
+  val myFavoriteFrameworks = listOf("Android Studio", "IntelliJ", "VSCode", "React", "Tailwindcss")
 
 }
 ```
