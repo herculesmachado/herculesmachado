@@ -1,6 +1,7 @@
 ```kotlin
 class Salutation {
  val mySalutation = "HI, MY NAME IS HERCULES, WELCOME TO THE MY PROFILE!!"
+
 }
 
 class AboutMe {
