@@ -1,6 +1,8 @@
+## WELCOME TO THE MY PROFILE
+
 ```kotlin
 class Salutation {
- val mySalutation = "HI, MY NAME IS HERCULES, WELCOME TO THE MY PROFILE!!"
+ val mySalutation = "HI, MY NAME IS HERCULES, HOW ARE YOU DOING!!"
 
 }
 
