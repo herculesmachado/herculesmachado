@@ -13,7 +13,7 @@ class AboutMe {
 
   val myFavoriteLanguagens = listOf("Koltin", "TypeScript", "JavaScript")
   val myFavoriteTools = listOf("VSCode", "Android Studio", "IntelliJ")
-  val myFavoriteFrameworks = listOf("React", "Tailwindcss")
+  val myFavoriteFrameworks = listOf("React", "Tailwindcss", "Styled-Components")
 
 }
 ```
