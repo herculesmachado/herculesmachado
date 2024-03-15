@@ -1,20 +1,16 @@
 ## WELCOME TO THE MY PROFILE
 
-```kotlin
-class Salutation {
- val mySalutation = "HI, MY NAME IS HERCULES, HOW ARE YOU DOING!!"
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("HI, MY NAME IS HÉRCULES, HOW ARE YOU DOING?");
 
-}
+        String myName, iAmAProgrammer, iAmFrom;
 
-class AboutMe {
-  val myName = "Hercules Machado"
-  val iAmAProgrammer = "Android Mobile Developer & Web Developer"
-  val iAmFrom = "Sergipe, Brazil"
-
-  val myFavoriteLanguagens = listOf("Koltin", "TypeScript", "JavaScript")
-  val myFavoriteTools = listOf("VSCode", "Android Studio", "IntelliJ")
-  val myFavoriteFrameworks = listOf("React", "Tailwindcss", "Styled-Components")
-
+        myName = "Hercules Machado";
+        iAmAProgrammer = "Developer Java";
+        iAmFrom = "Sergipe, Brazil";
+    }
 }
 ```
 
