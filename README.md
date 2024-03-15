@@ -10,6 +10,8 @@ public class Main {
         myName = "Hercules Machado";
         iAmAProgrammer = "Developer Java";
         iAmFrom = "Sergipe, Brazil";
+
+        String[] setting = {"IntelliJ IDEA"};
     }
 }
 ```
