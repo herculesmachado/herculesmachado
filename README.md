@@ -1,7 +1,7 @@
 ## WELCOME TO THE MY PROFILE
 
 ```C#
-class URI {
+class MyProfile {
 
     static void Main(string[] args) { 
 
