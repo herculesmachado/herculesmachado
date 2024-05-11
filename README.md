@@ -12,10 +12,6 @@ class URI {
        myName = "Hércules Machado";
        iAmProgramer = "Developer C-Sharp";
        iAmFrom = "Sergipe, Brazil";
- 
-      
-
-  
 
     }
 
