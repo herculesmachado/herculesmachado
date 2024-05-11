@@ -5,28 +5,20 @@ class URI {
 
     static void Main(string[] args) { 
 
+       Console.WriteLine("HI, MY NAME IS HERCULES, HOW ARE YOU DOING!?");
+        
+       String myName, iAmAProgrammer, iAmFrom;
+
+       myName = "Hércules Machado";
+       iAmProgramer = "Developer C-Sharp";
+       iAmFrom = "Sergipe, Brazil";
+ 
+      
+
   
 
     }
 
-}
-```
-
-
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.print("HI, MY NAME IS HÉRCULES, HOW ARE YOU DOING?");
-
-        String myName, iAmAProgrammer, iAmFrom;
-
-        myName = "Hercules Machado";
-        iAmAProgrammer = "Developer Java";
-        iAmFrom = "Sergipe, Brazil";
-
-        String[] setting = {"IntelliJ IDEA"};
-    }
 }
 ```
 
