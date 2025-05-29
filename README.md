@@ -10,7 +10,7 @@ public class MyProfile {
         String myName, iAmProgrammer, iAmFrom;
 
         myName = "Hércules Machado";
-        iAmProgrammer = "Developer C-Sharp";
+        iAmProgrammer = "Backend Developer Java";
         iAmFrom = "Sergipe, Brazil";
     }
 }
