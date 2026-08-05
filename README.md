@@ -1,21 +1,19 @@
 ## WELCOME TO THE MY PROFILE
 
-```c#
-using System;
+```java
+public class MyProfile {
 
-class MyProfile
-{
-    static void Main()
-    {
-        Console.WriteLine("HI, MY NAME IS HERCULES, HOW ARE YOU DOING!?");
+    public static void main(String[] args) {
 
-        string myName = "Hércules Machado";
-        string iAmProgrammer = "Backend Java Developer";
-        string iAmFrom = "Sergipe, Brazil";
+        System.out.println("HI, MY NAME IS HERCULES, HOW ARE YOU DOING!?");
 
-        Console.WriteLine($"\nName: {myName}");
-        Console.WriteLine($"Profession: {iAmProgrammer}");
-        Console.WriteLine($"Location: {iAmFrom}");
+        String myName = "Hércules Machado";
+        String iAmProgrammer = "Backend Java Developer";
+        String iAmFrom = "Sergipe, Brazil";
+
+        System.out.println("\nName: " + myName);
+        System.out.println("Profession: " + iAmProgrammer);
+        System.out.println("Location: " + iAmFrom);
     }
 }
 
